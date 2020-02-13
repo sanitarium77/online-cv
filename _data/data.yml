@@ -40,7 +40,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I have spent last years developing various applications for Android. |Total programming experience is 4 years. |As you can see I deal with various technologies, working both in teams and as a single programmer on a project.
+      I have spent last years developing various applications for Android. Total programming experience is 4 years. As you can see I deal with various technologies, working both in teams and as a single programmer on a project.
 
 education:
     - degree: Bachelor of Applied Science - BASc
@@ -64,21 +64,21 @@ projects:
     title: Projects
     intro: >
     assignments:
-      - title: Karl Storz Service UA Android app
+      - title: Karl Storz Service UA
         link: "https://karlstorzservice.com.ua/"
-        tagline: "https://karlstorzservice.com.ua/ App for providing guarantee service and chat with technical support team, also informing user about new devices and helping to find company regional manager"
+        tagline: "App for providing guarantee service and chat with technical support team, also informing user about new devices and helping to find company regional manager"
 
-      - title: Naviaddress Android app
+      - title: Naviaddress
         link: "https://play.google.com/store/apps/details?id=com.naviworld.Navimap"
         tagline: "Application which allows you to create naviaddresses all over the world which are easy to find and to share in any country because naviaddress consists of numbers instead of street names."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: CustomBox
+        link: "https://play.google.com/store/apps/details?id=com.vasilkoff.custombox"
+        tagline: "Small android app for creating orders consisting of different box parameters."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: CarRentFinder
+        link: "https://play.google.com/store/apps/details?id=com.vasilkoff.carrentfinder"
+        tagline: "Dates: Jul 2018 - Jun 2018 > App for renting cars in local company located in Paphos, Cyprus. Project is already in Play market"
 
       - title: Delta
         link: "#"
@@ -99,8 +99,8 @@ skills:
       - name: Kotlin
         level: 90%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Sketch, Figma, Zeplin, Photoshop
+        level: 80%
 
 footer: >
     
