@@ -40,7 +40,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I have spent last years developing various applications for Android. Total programming experience is 4 years. As you can see I deal with various technologies, working both in teams and as a single programmer on a project.
+      I have spent last years developing various applications for Android. Total programming experience is 4 years. I deal with various technologies, working both in teams and as a single programmer on a project.
 
 education:
     - degree: Bachelor of Applied Science - BASc
@@ -66,28 +66,28 @@ projects:
     assignments:
       - title: Karl Storz Service UA
         link: "https://karlstorzservice.com.ua/"
-        tagline: "App for providing guarantee service and chat with technical support team, also informing user about new devices and helping to find company regional manager"
+        tagline: "Dates: Dec 2019 - Feb 2020. App for providing guarantee service and chat with technical support team, also informing user about new devices and helping to find company regional manager"
 
       - title: Naviaddress
         link: "https://play.google.com/store/apps/details?id=com.naviworld.Navimap"
-        tagline: "Application which allows you to create naviaddresses all over the world which are easy to find and to share in any country because naviaddress consists of numbers instead of street names."
+        tagline: "Dates: Jul 2017-Sept 2019. Application which allows you to create naviaddresses all over the world which are easy to find and to share in any country because naviaddress consists of numbers instead of street names."
 
       - title: CustomBox
         link: "https://play.google.com/store/apps/details?id=com.vasilkoff.custombox"
-        tagline: "Small android app for creating orders consisting of different box parameters."
+        tagline: "Dates: Nov 2018. Small android app for creating orders consisting of different box parameters."
 
       - title: CarRentFinder
         link: "https://play.google.com/store/apps/details?id=com.vasilkoff.carrentfinder"
-        tagline: "Dates: Jul 2018 - Jun 2018 > App for renting cars in local company located in Paphos, Cyprus. Project is already in Play market"
+        tagline: "Dates: Jul 2018 - Jun 2018. App for renting cars in local company located in Paphos, Cyprus. Project is already in Play market"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Onlinepay Wallet
+        link: "https://play.google.com/store/apps/details?id=com.onlinepay"
+        tagline: "Dates: Sep 2016 - Jun 2017. Application for both Android and iOS platforms which allows you to create money transactions between users in any available currencies with news feed and user profile. Project is already in Play market and App store"
 
-publications:
-    title: 
-    intro: 
-    papers:
+      - title: TheAsianParent
+        link: "https://play.google.com/store/apps/details?id=com.tickledmedia.ParentTown"
+        tagline: "Dates: June 2015 - Sep 2015. theAsianparent is Southeast Asia's largest online parenting website. We are the leading platform for all things related to pregnancy and parenting, helping mums raise healthy and happy children! Over 6 million mums relying on our brand each month."
+
      
 skills:
     title: Skills &amp; Proficiency
