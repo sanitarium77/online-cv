@@ -65,7 +65,7 @@ projects:
     intro: >
     assignments:
       - title: Karl Storz Service UA
-        link: "https://karlstorzservice.com.ua/"
+        link: "https://play.google.com/store/apps/details?id=com.alifanov.karlstorz"
         tagline: "Dates: Dec 2019 - Feb 2020. App for providing guarantee service and chat with technical support team, also informing clients about new devices and helping to find Karl Storz Ukraine regional manager"
 
       - title: Naviaddress
