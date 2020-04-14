@@ -43,7 +43,7 @@ career-profile:
       I have spent last years developing various applications for Android. Total programming experience is 4 years. I deal with various technologies, working both in teams and as a single programmer on a project.
 
 education:
-    - degree: Bachelor of Applied Science - BASc
+    - degree: Master degree of Applied Science - BASc
       university: Cherkasy State University Bohdan Hmelnycky
       time: 2007 – 2012
       details: 
@@ -64,14 +64,19 @@ projects:
     title: Projects
     intro: >
     assignments:
+    
+      - title: Gary Banana
+        link: "https://play.google.com/store/apps/details?id=es.ivyhealth"
+        tagline: "Dates: Mar 2020- Apr 2020. Fitness application which sends AI based nutrition plans and exercises sets to help people loose weight and stay fit. Was involved to project as a single developer to implement new features and fix bugs, but project was set on hold because of COVID-19"
+
       - title: Karl Storz Service UA
         link: "https://play.google.com/store/apps/details?id=com.alifanov.karlstorz"
         tagline: "Dates: Dec 2019 - Feb 2020. App for providing guarantee service and chat with technical support team, also informing clients about new devices and helping to find Karl Storz Ukraine regional manager"
 
       - title: Naviaddress
         link: "https://play.google.com/store/apps/details?id=com.naviworld.Navimap"
-        tagline: "Dates: Jul 2017-Sept 2019. Application which allows you to create naviaddresses all over the world which are easy to find and to share in any country because naviaddress consists of numbers instead of street names."
-
+        tagline: "Dates: Jul 2017 - Sept 2019. Application which allows you to create naviaddresses all over the world which are easy to find and to share in any country because naviaddress consists of numbers instead of street names."
+     
       - title: CustomBox
         link: "https://play.google.com/store/apps/details?id=com.vasilkoff.custombox"
         tagline: "Dates: Nov 2018. Small android app for creating orders consisting of different box parameters."
