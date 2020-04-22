@@ -45,7 +45,7 @@ career-profile:
 education:
     - degree: Master degree of Applied Science - BASc
       university: Cherkasy State University Bohdan Hmelnycky
-      time: 2007 – 2012
+      time: 2007 – 2013
       details: 
         
 experiences:
@@ -57,6 +57,11 @@ experiences:
     - role: Android Developer
       time: 2015 - Present
       company: Vasilkoff Ltd
+      details: |
+      
+    - role: Web Developer
+      time: 2013 - 2015
+      company: Freelance
       details: |
        
     
