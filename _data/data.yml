@@ -40,14 +40,14 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a Mobile Application developer from Ukraine, with programming experience more than 4 years. I'm interested in mobile development on Java, Kotlin, improving my skills and studying new technologies. I will find the way to solve any task for you. If you can imagine something, then I can create it!|
+      I am a Mobile Application developer from Ukraine, with programming experience more than 3+ years. I'm interested in mobile development on Java, Kotlin, improving my skills and studying new technologies. I will find the way to solve any task for you. If you can imagine something, then I can create it!|
       My expertise fields are|
       • Native Android|
       • Java, Kotlin, Android SDK|
       • Room, Picasso, Glide, LiveData|
       • Design patterns, Material Design|
       • Google Maps, OpenStreetMap|
-      • SQLite, Firebase, PostgreSQL, Realm, MySQL|
+      • SQLite, Firebase, PostgreSQL,Realm, MySQL|
       • Retrofit, OKHttp, JSON, GSON, XML, HTTP, RestAPI|
       • Fabric, Crashlytics|
       • DropBox SDK, Push Notifications|
@@ -88,29 +88,33 @@ projects:
     intro: >
     assignments:
     
+      - title: Gary Banana
+        link: "https://play.google.com/store/apps/details?id=es.ivyhealth"
+        tagline: "Dates: Mar 2020- Apr 2020. Fitness application which sends AI based nutrition plans and exercises sets to help people loose weight and stay fit. Was involved to project as a single developer to implement new features and fix bugs, but project was set on hold because of COVID-19 | Available in Play Market https://play.google.com/store/apps/details?id=es.ivyhealth"
+
       - title: Karl Storz Service UA
         link: "https://play.google.com/store/apps/details?id=com.alifanov.karlstorz"
-        tagline: "Dates: Dec 2019 - Feb 2020. App for providing guarantee service and chat with technical support team, also informing clients about new devices and helping to find Karl Storz Ukraine regional manager"
+        tagline: "Dates: Dec 2019 - Feb 2020. App for providing guarantee service and chat with technical support team, also informing clients about new devices and helping to find Karl Storz Ukraine regional manager | Available in Play Market https://play.google.com/store/apps/details?id=com.alifanov.karlstorz"
 
       - title: Naviaddress
         link: "https://play.google.com/store/apps/details?id=com.naviworld.Navimap"
-        tagline: "Dates: Jul 2017 - Sept 2019. Application which allows you to create naviaddresses all over the world which are easy to find and to share in any country because naviaddress consists of numbers instead of street names."
+        tagline: "Dates: Jul 2017 - Sept 2019. Application which allows you to create naviaddresses all over the world which are easy to find and to share in any country because naviaddress consists of numbers instead of street names. | Available in Play Market https://play.google.com/store/apps/details?id=com.naviworld.Navimap"
      
       - title: CustomBox
         link: "https://play.google.com/store/apps/details?id=com.vasilkoff.custombox"
-        tagline: "Dates: Nov 2018. Small android app for creating orders consisting of different box parameters."
+        tagline: "Dates: Nov 2018. Small android app for creating orders consisting of different box parameters. | Available in Play Market https://play.google.com/store/apps/details?id=com.vasilkoff.custombox"
 
       - title: CarRentFinder
         link: "https://play.google.com/store/apps/details?id=com.vasilkoff.carrentfinder"
-        tagline: "Dates: Jul 2018 - Jun 2018. App for renting cars in local company located in Paphos, Cyprus. Project is already in Play market"
+        tagline: "Dates: Jul 2018 - Jun 2018. App for renting cars in local company located in Paphos, Cyprus. | Available in Play Market https://play.google.com/store/apps/details?id=com.vasilkoff.carrentfinder"
 
       - title: Onlinepay Wallet
         link: "https://play.google.com/store/apps/details?id=com.onlinepay"
-        tagline: "Dates: Sep 2016 - Jun 2017. Application for both Android and iOS platforms which allows you to create money transactions between users in any available currencies with news feed and user profile. Project is already in Play market and App store"
+        tagline: "Dates: Sep 2016 - Jun 2017. Application for both Android and iOS platforms which allows you to create money transactions between users in any available currencies with news feed and user profile. | Available in Play Market https://play.google.com/store/apps/details?id=com.onlinepay"
 
       - title: TheAsianParent
         link: "https://play.google.com/store/apps/details?id=com.tickledmedia.ParentTown"
-        tagline: "Dates: June 2015 - Sep 2015. theAsianparent is Southeast Asia's largest online parenting website. We are the leading platform for all things related to pregnancy and parenting, helping mums raise healthy and happy children! Over 6 million mums relying on our brand each month."
+        tagline: "Dates: June 2015 - Sep 2015. theAsianparent is Southeast Asia's largest online parenting website. We are the leading platform for all things related to pregnancy and parenting, helping mums raise healthy and happy children! Over 6 million mums relying on our brand each month. | Available in Play Market https://play.google.com/store/apps/details?id=com.tickledmedia.ParentTown"
 
      
 skills:
