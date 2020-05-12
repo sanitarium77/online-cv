@@ -88,9 +88,9 @@ projects:
     intro: >
     assignments:
     
-      - title: Gary Banana
-        link: "https://play.google.com/store/apps/details?id=es.ivyhealth"
-        tagline: "Dates: Mar 2020- Apr 2020. Fitness application which sends AI based nutrition plans and exercises sets to help people loose weight and stay fit. Was involved to project as a single developer to implement new features and fix bugs, but project was set on hold because of COVID-19 | Available in Play Market https://play.google.com/store/apps/details?id=es.ivyhealth"
+      #- title: Gary Banana
+      #  link: "https://play.google.com/store/apps/details?id=es.ivyhealth"
+      #  tagline: "Dates: Mar 2020- Apr 2020. Fitness application which sends AI based nutrition plans and exercises sets to help people loose weight and stay fit. Was involved to project as a single developer to implement new features and fix bugs, but project was set on hold because of COVID-19 | Available in Play Market https://play.google.com/store/apps/details?id=es.ivyhealth"
 
       - title: Karl Storz Service UA
         link: "https://play.google.com/store/apps/details?id=com.alifanov.karlstorz"
