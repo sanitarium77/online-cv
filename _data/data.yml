@@ -68,12 +68,17 @@ education:
         
 experiences:
     - role: Android Developer
+      time: 2020 - Present
+      company: GCP Software
+      details: |
+      
+    - role: Android Developer
       time: 2017 - 2019
       company: Naviaddress
       details: |
         
     - role: Android Developer
-      time: 2015 - Present
+      time: 2015 - 2019
       company: Vasilkoff Ltd
       details: |
       
