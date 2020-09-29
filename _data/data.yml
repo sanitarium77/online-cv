@@ -12,9 +12,9 @@ sidebar:
     avatar: avatar.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: #sanitarium7777@gmail.com
-    phone: #+380938588805
-    linkedin: #vasyl-alifanov-27894584
+    email: sanitarium7777@gmail.com
+    phone: +380938588805
+    linkedin: vasyl-alifanov-27894584
     gitlab:
     bitbucket:
     twitter: 
