@@ -67,8 +67,18 @@ education:
       details: 
         
 experiences:
+     - role: Android Developer
+      time: 2023 - Now
+      company: Sync MD
+      details: |
+
     - role: Android Developer
-      time: 2020 - Present
+      time: 2020 - 2022
+      company: Echo UA
+      details: |
+
+    - role: Android Developer
+      time: 2020 - 2020
       company: GCP Software
       details: |
       
