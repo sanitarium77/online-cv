@@ -9,180 +9,146 @@ sidebar:
     # Profile information
     name: Vasyl Alifanov
     tagline: Android Developer
-    avatar: photo_2020-02-13 12.52.30.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    avatar: avatar.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: sanitarium7777@gmail.com
     phone: +380938588805
-    linkedin: alandoe
-    github: sharu725
+
+    linkedin: vasyl-alifanov-27894584
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
+        level: Upper Intermediate
+
+      - idiom: Ukrainian
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
+      - idiom: Russian
+        level: Native
 
     interests:
-      - item: Climbing
+      - item: Football
         link:
 
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
-        link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am a Mobile Application developer from Ukraine, with programming experience more than 3+ years. I'm interested in mobile development on Java, Kotlin, improving my skills and studying new technologies. I will find the way to solve any task for you. If you can imagine something, then I can create it!|
+      My expertise fields are|
+      • Native Android|
+      • Java, Kotlin, Android SDK|
+      • Room, Picasso, Glide, LiveData|
+      • Design patterns, Material Design|
+      • Google Maps, OpenStreetMap|
+      • SQLite, Firebase, PostgreSQL,Realm, MySQL|
+      • Retrofit, OKHttp, JSON, GSON, XML, HTTP, RestAPI|
+      • Fabric, Crashlytics|
+      • DropBox SDK, Push Notifications|
+      • In App Purchase, Stripe SDK and other payments systems|
+      • Android Studio, Postman, Zeplin, Jira, GIT, Asana, Firebase, Figma|
+      Reasons to hire me |
+      • Responsible performer|
+      • Able to work more than 40 hrs/week|
+      • Starting without delay|
+      • Full concentration on the task|
+      • Great communication skills |
+
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    - degree: Master degree of Applied Science - BASc
+      university: Cherkasy State University Bohdan Hmelnycky
+      time: 2007 – 2013
+      details: 
+        
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+     - role: Android Developer
+      time: 2023 - Now
+      company: Sync MD
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+
+    - role: Android Developer
+      time: 2020 - 2022
+      company: Echo UA
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+
+    - role: Android Developer
+      time: 2020 - 2020
+      company: GCP Software
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+      
+    - role: Android Developer
+      time: 2017 - 2019
+      company: Naviaddress
+      details: |
+        
+    - role: Android Developer
+      time: 2015 - 2019
+      company: Vasilkoff Ltd
+      details: |
+      
+    - role: Web Developer
+      time: 2013 - 2015
+      company: Freelance
+      details: |
+       
+    
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    
+      #- title: Gary Banana
+      #  link: "https://play.google.com/store/apps/details?id=es.ivyhealth"
+      #  tagline: "Dates: Mar 2020- Apr 2020. Fitness application which sends AI based nutrition plans and exercises sets to help people loose weight and stay fit. Was involved to project as a single developer to implement new features and fix bugs, but project was set on hold because of COVID-19 | Available in Play Market https://play.google.com/store/apps/details?id=es.ivyhealth"
+      
+      - title: Roadio
+        link: "https://play.google.com/store/apps/details?id=com.roadio"
+        tagline: "Dates: Apr 2020. Trivia app. with questions based on current user location. I have involved in project for add new questions types quantative and map (polygons, distance), create buckets logic for answers score, working with Lottie animations. | Available in Play Market https://play.google.com/store/apps/details?id=com.roadio"
+        
+      - title: Karl Storz Service UA
+        link: "https://play.google.com/store/apps/details?id=com.alifanov.karlstorz"
+        tagline: "Dates: Dec 2019 - Feb 2020. App for providing guarantee service and chat with technical support team, also informing clients about new devices and helping to find Karl Storz Ukraine regional manager | Available in Play Market https://play.google.com/store/apps/details?id=com.alifanov.karlstorz"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Naviaddress
+        link: "https://play.google.com/store/apps/details?id=com.naviworld.Navimap"
+        tagline: "Dates: Jul 2017 - Sept 2019. Application which allows you to create naviaddresses all over the world which are easy to find and to share in any country because naviaddress consists of numbers instead of street names. | Available in Play Market https://play.google.com/store/apps/details?id=com.naviworld.Navimap"
+     
+      - title: CustomBox
+        link: "https://play.google.com/store/apps/details?id=com.vasilkoff.custombox"
+        tagline: "Dates: Nov 2018. Small android app for creating orders consisting of different box parameters. | Available in Play Market https://play.google.com/store/apps/details?id=com.vasilkoff.custombox"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: CarRentFinder
+        link: "https://play.google.com/store/apps/details?id=com.vasilkoff.carrentfinder"
+        tagline: "Dates: Jul 2018 - Jun 2018. App for renting cars in local company located in Paphos, Cyprus. | Available in Play Market https://play.google.com/store/apps/details?id=com.vasilkoff.carrentfinder"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Onlinepay Wallet
+        link: "https://play.google.com/store/apps/details?id=com.onlinepay"
+        tagline: "Dates: Sep 2016 - Jun 2017. Application for both Android and iOS platforms which allows you to create money transactions between users in any available currencies with news feed and user profile. | Available in Play Market https://play.google.com/store/apps/details?id=com.onlinepay"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: TheAsianParent
+        link: "https://play.google.com/store/apps/details?id=com.tickledmedia.ParentTown"
+        tagline: "Dates: June 2015 - Sep 2015. theAsianparent is Southeast Asia's largest online parenting website. We are the leading platform for all things related to pregnancy and parenting, helping mums raise healthy and happy children! Over 6 million mums relying on our brand each month. | Available in Play Market https://play.google.com/store/apps/details?id=com.tickledmedia.ParentTown"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
+     
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Java
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Kotlin
+        level: 90%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Sketch, Figma, Zeplin, Photoshop
+        level: 80%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
